@@ -3,17 +3,24 @@
 - Tool for helping checking for dependencies: http://numerical.recipes/dependencies/index.php
 
 Ex. reading the Interior Point algorithm file - Add piece below
+
 #include "nr3.h"
+
 #include "sort.h"
+
 #include "sparse.h"
+
 #include "interior.h"
 
 Ex. reading the Simplex algorithm file - Add piece below
 
-'#include "nr3.h"
+#include "nr3.h"
+
 #include "sort.h"
+
 #include "sparse.h"
-#include "simplex.h"'
+
+#include "simplex.h"
 
 - Other useful resources:
 
